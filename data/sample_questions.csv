@@ -1,0 +1,7 @@
+question_id,board,class_level,subject,exam_year,paper_id,question_number,question_text,marks,chapter,topic,question_type,difficulty
+1,CBSE,Class 10,Mathematics,2022,P_2022_M,1,Solve for x: 2x + 3 = 7,2,Algebra,Linear Equations,Short Answer,Easy
+2,CBSE,Class 10,Mathematics,2022,P_2022_M,2,Find the roots of x^2 - 5x + 6 = 0,3,Algebra,Quadratic Equations,Short Answer,Medium
+3,CBSE,Class 10,Mathematics,2021,P_2021_M,1,What is the probability of rolling a 6 on a fair die?,1,Probability,Basic Probability,MCQ,Easy
+4,CBSE,Class 10,Mathematics,2021,P_2021_M,2,Solve for x: x^2 - 4 = 0,2,Algebra,Quadratic Equations,Short Answer,Easy
+5,CBSE,Class 10,Mathematics,2020,P_2020_M,1,Solve: 3x - 5 = 10,2,Algebra,Linear Equations,Short Answer,Easy
+6,CBSE,Class 10,Mathematics,2020,P_2020_M,2,Prove that sum of angles in a triangle is 180 degrees.,4,Geometry,Triangles,Long Answer,Hard
